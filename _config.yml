@@ -70,10 +70,6 @@ features                                  :
     description                           : Compatibility notes, preview screenshots and author credits help reduce broken installs and ensure safer downloads.
     fontawesome_icon_name                 : shield-alt
 
-  - title                                 : Premium Membership
-    description                           : Remove ads, unlock unlimited downloads and full editor access with an optional subscription to support ongoing updates.
-    fontawesome_icon_name                 : gem
-
     
 
 
